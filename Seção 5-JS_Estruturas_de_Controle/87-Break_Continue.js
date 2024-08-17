@@ -9,7 +9,7 @@ for (x in nums) {
 console.log('')
 for (y in nums) {
     if (y == 5){
-        continue // Desvia o fluxo e interrompe a parte atual do laço, pulando pro próximo
+        continue // Desvia o fluxo e interrompe a parte atual do laço, pulando para o próximo
     }
     console.log(`Índice ${y} = ${nums[y]}`)
 }
