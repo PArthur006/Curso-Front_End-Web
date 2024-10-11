@@ -10,4 +10,4 @@ function maiorOuIgual(n1, n2){
     }
 }
 
-maiorOuIgual("b", `b`)
+maiorOuIgual()
